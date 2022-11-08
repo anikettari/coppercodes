@@ -1,0 +1,19 @@
+.login_image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.card_float{
+   
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+
+.datePicker{
+    border: none !important;
+}
